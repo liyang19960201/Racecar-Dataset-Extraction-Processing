@@ -1,0 +1,191 @@
+>>>>>>>>>>>>>>>>>FlowID: 5 (TCP 7.0.0.2/49153 --> 7.0.0.5/8000)
+  Lost Packets:  2275
+  Tx Packets: 415743
+  Rx rxPackets: 413468
+  Rx timeFirstRxPacket: 1016 ms
+  timeLastTxPacket: 810013 ms
+  timeLastRxPacket: 810028 ms
+  Throughput: 302165.1244605188 MBps
+  Goodput: 300512.3731168388 MBps
+**************************************
+[0.002, 114.613, 178.692, 2.532, 114.888, 2.696, 0.023, 0.007, 0.008, 0.007]
+Minimum Delay: 0.002
+Maximum Delay: 178.692
+Median Delay: 1.2775
+Mean Delay 41.346799999999995
+Standard Deviation 3.4995000000000003
+Coefficient of Variation: 0.08463774705660415
+90th Percentile Delay: 121.26839999999999
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 6 (TCP 7.0.0.3/49153 --> 7.0.0.6/8001)
+  Lost Packets:  2282
+  Tx Packets: 416056
+  Rx rxPackets: 413774
+  Rx timeFirstRxPacket: 1018 ms
+  timeLastTxPacket: 810464 ms
+  timeLastRxPacket: 810479 ms
+  Throughput: 302216.6443271818 MBps
+  Goodput: 300560.4717213059 MBps
+**************************************
+[0.002, 0.001, 188.911, 184.405, 40.345, 0.036000000000000004, 0.021, 0.016, 0.026000000000000002, 0.009000000000000001, 0.002]
+Minimum Delay: 0.001
+Maximum Delay: 188.911
+Median Delay: 0.021
+Mean Delay 37.615818181818184
+Standard Deviation 0.9995
+Coefficient of Variation: 0.02657126837355658
+90th Percentile Delay: 184.405
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 7 (TCP 7.0.0.4/49153 --> 7.0.0.7/8002)
+  Lost Packets:  2275
+  Tx Packets: 415746
+  Rx rxPackets: 413471
+  Rx timeFirstRxPacket: 1014 ms
+  timeLastTxPacket: 810011 ms
+  timeLastRxPacket: 810027 ms
+  Throughput: 302168.0518957719 MBps
+  Goodput: 300514.18209596135 MBps
+**************************************
+[0.008, 180.925, 184.611, 0.145, 1.231, 46.46, 0.039, 0.035, 0.011, 0.006]
+Minimum Delay: 0.006
+Maximum Delay: 184.611
+Median Delay: 0.092
+Mean Delay 41.3471
+Standard Deviation 2.9995
+Coefficient of Variation: 0.07254438642613388
+90th Percentile Delay: 181.2936
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 8 (TCP 7.0.0.8/49153 --> 7.0.0.9/8003)
+  Lost Packets:  2286
+  Tx Packets: 413690
+  Rx rxPackets: 411404
+  Rx timeFirstRxPacket: 1017 ms
+  timeLastTxPacket: 810497 ms
+  timeLastRxPacket: 810512 ms
+  Throughput: 300487.1018832665 MBps
+  Goodput: 298827.7135745125 MBps
+**************************************
+[0.001, 0.507, 2.619, 240.223, 118.226, 41.1, 8.675, 0.018000000000000002, 0.014, 0.011, 0.008, 0.002]
+Minimum Delay: 0.001
+Maximum Delay: 240.223
+Median Delay: 0.2625
+Mean Delay 34.28366666666667
+Standard Deviation 0.9995
+Coefficient of Variation: 0.029153824464516632
+90th Percentile Delay: 110.51340000000002
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 9 (TCP 7.0.0.9/49153 --> 7.0.0.10/8004)
+  Lost Packets:  2097
+  Tx Packets: 373647
+  Rx rxPackets: 371550
+  Rx timeFirstRxPacket: 1015 ms
+  timeLastTxPacket: 810484 ms
+  timeLastRxPacket: 810498 ms
+  Throughput: 271405.2959601122 MBps
+  Goodput: 269882.727617504 MBps
+**************************************
+[0.014, 0.008, 0.002, 1.223, 71.34100000000001, 108.143, 77.354, 99.187, 14.243, 0.022, 0.002, 0.008, 0.002, 0.001]
+Minimum Delay: 0.001
+Maximum Delay: 108.143
+Median Delay: 0.018
+Mean Delay 26.53928571428571
+Standard Deviation 0.4995
+Coefficient of Variation: 0.01882115462252725
+90th Percentile Delay: 92.63710000000002
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 10 (TCP 7.0.0.7/8002 --> 7.0.0.4/49153)
+  Lost Packets:  0
+  Tx Packets: 229253
+  Rx rxPackets: 229253
+  Rx timeFirstRxPacket: 1029 ms
+  timeLastTxPacket: 810027 ms
+  timeLastRxPacket: 810041 ms
+  Throughput: 15180.458163218638 MBps
+  Goodput: 15180.476927412696 MBps
+**************************************
+[0.009000000000000001, 0.017, 0.024, 25.707, 0.737, 0.08, 101.006, 101.673]
+Minimum Delay: 0.009000000000000001
+Maximum Delay: 101.673
+Median Delay: 0.4085
+Mean Delay 28.656625000000002
+Standard Deviation 50836.4995
+Coefficient of Variation: 1773.9876730075505
+90th Percentile Delay: 101.2061
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 11 (TCP 7.0.0.10/8004 --> 7.0.0.9/49153)
+  Lost Packets:  0
+  Tx Packets: 205534
+  Rx rxPackets: 205534
+  Rx timeFirstRxPacket: 1030 ms
+  timeLastTxPacket: 810470 ms
+  timeLastRxPacket: 810484 ms
+  Throughput: 13573.888604060756 MBps
+  Goodput: 13573.905373251599 MBps
+**************************************
+[0.001, 0.007, 0.004, 0.01, 7.734, 33.097, 62.615, 102.02, 0.027, 0.014, 0.001, 0.004]
+Minimum Delay: 0.001
+Maximum Delay: 102.02
+Median Delay: 0.012
+Mean Delay 17.12783333333333
+Standard Deviation 1.9995
+Coefficient of Variation: 0.1167398094719122
+90th Percentile Delay: 59.66320000000001
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 12 (TCP 7.0.0.5/8000 --> 7.0.0.2/49153)
+  Lost Packets:  0
+  Tx Packets: 229250
+  Rx rxPackets: 229250
+  Rx timeFirstRxPacket: 1031 ms
+  timeLastTxPacket: 810028 ms
+  timeLastRxPacket: 810043 ms
+  Throughput: 15180.22971229104 MBps
+  Goodput: 15180.229712291042 MBps
+**************************************
+[0.008, 0.004, 0.017, 1.5, 64.336, 1.558, 97.488, 64.339]
+Minimum Delay: 0.004
+Maximum Delay: 97.488
+Median Delay: 1.529
+Mean Delay 28.65625
+Standard Deviation 32169.4995
+Coefficient of Variation: 1122.5997644492911
+90th Percentile Delay: 74.2837
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 13 (TCP 7.0.0.9/8003 --> 7.0.0.8/49153)
+  Lost Packets:  2767
+  Tx Packets: 228178
+  Rx rxPackets: 225411
+  Rx timeFirstRxPacket: 1032 ms
+  timeLastTxPacket: 810483 ms
+  timeLastRxPacket: 810497 ms
+  Throughput: 15102.445315800787 MBps
+  Goodput: 14897.414959263218 MBps
+**************************************
+[0.003, 0.008, 0.003, 0.01, 0.009000000000000001, 11.713000000000001, 95.818, 117.674, 0.17300000000000001]
+Minimum Delay: 0.003
+Maximum Delay: 117.674
+Median Delay: 0.01
+Mean Delay 25.04566666666667
+Standard Deviation 86.4995
+Coefficient of Variation: 3.4536712937700464
+90th Percentile Delay: 100.1892
+**************************************
+>>>>>>>>>>>>>>>>>FlowID: 14 (TCP 7.0.0.6/8001 --> 7.0.0.3/49153)
+  Lost Packets:  0
+  Tx Packets: 229404
+  Rx rxPackets: 229404
+  Rx timeFirstRxPacket: 1033 ms
+  timeLastTxPacket: 810449 ms
+  timeLastRxPacket: 810464 ms
+  Throughput: 15182.719712983564 MBps
+  Goodput: 15182.719712983564 MBps
+**************************************
+[0.004, 0.015, 0.009000000000000001, 0.026000000000000002, 0.02, 22.464000000000002, 100.943, 105.923]
+Minimum Delay: 0.004
+Maximum Delay: 105.923
+Median Delay: 0.023
+Mean Delay 28.6755
+Standard Deviation 52961.4995
+Coefficient of Variation: 1846.925057976321
+90th Percentile Delay: 102.437
+**************************************
+
